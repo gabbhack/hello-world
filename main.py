@@ -1,1 +1,1 @@
-exec("""\ndef main():\n    a = 'H'\n    b = 'e'\n    c = 'l'\n    d = 'l'\n    e = 'o'\n    f = ','\n    g = ' '\n    h = 'W'\n    i = 'o'\n    g = 'r'\n    k = 'l'\n    l = 'd'\n    m = '!'\n    print(a,b,c,d,e,f,g,h,i,g,k,l,m, sep="")\nmain()\n"""
+exec("""\ndef main():\n    a = 'H'\n    b = 'e'\n    c = 'l'\n    d = 'l'\n    e = 'o'\n    f = ','\n    g = ' '\n    h = 'W'\n    i = 'o'\n    g = 'r'\n    k = 'l'\n    l = 'd'\n    m = '!'\n    print(a,b,c,d,e,f,g,h,i,g,k,l,m, sep="")\nmain()\n""")
